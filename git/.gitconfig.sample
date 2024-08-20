@@ -1,0 +1,9 @@
+# Sample local configs
+# Rename this file to .gitconfig.local
+[commit]
+  gpgsign = true
+
+[user]
+	name = GITUSER
+	email = GITEMAIL
+  signingkey = 1A2B3C4D5E6F7
